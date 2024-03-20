@@ -1,0 +1,103 @@
+F:\data structure programming\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.exe
+F:\data structure programming\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.deps.json
+F:\data structure programming\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.runtimeconfig.json
+F:\data structure programming\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.dll
+F:\data structure programming\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.pdb
+F:\data structure programming\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.AssemblyReference.cache
+F:\data structure programming\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+F:\data structure programming\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfoInputs.cache
+F:\data structure programming\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfo.cs
+F:\data structure programming\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+F:\data structure programming\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.dll
+F:\data structure programming\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\refint\ConsoleApp2.dll
+F:\data structure programming\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.pdb
+F:\data structure programming\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.genruntimeconfig.cache
+F:\data structure programming\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ref\ConsoleApp2.dll
+Q:\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.exe
+Q:\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.deps.json
+Q:\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.runtimeconfig.json
+Q:\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.dll
+Q:\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.pdb
+Q:\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.AssemblyReference.cache
+Q:\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+Q:\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfoInputs.cache
+Q:\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfo.cs
+Q:\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+Q:\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.dll
+Q:\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\refint\ConsoleApp2.dll
+Q:\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.pdb
+Q:\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.genruntimeconfig.cache
+Q:\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ref\ConsoleApp2.dll
+F:\ThirdLevel_2nd Term\Algorithms\N-Puzzle Project\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.exe
+F:\ThirdLevel_2nd Term\Algorithms\N-Puzzle Project\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.deps.json
+F:\ThirdLevel_2nd Term\Algorithms\N-Puzzle Project\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.runtimeconfig.json
+F:\ThirdLevel_2nd Term\Algorithms\N-Puzzle Project\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.dll
+F:\ThirdLevel_2nd Term\Algorithms\N-Puzzle Project\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.pdb
+F:\ThirdLevel_2nd Term\Algorithms\N-Puzzle Project\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.AssemblyReference.cache
+F:\ThirdLevel_2nd Term\Algorithms\N-Puzzle Project\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+F:\ThirdLevel_2nd Term\Algorithms\N-Puzzle Project\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfoInputs.cache
+F:\ThirdLevel_2nd Term\Algorithms\N-Puzzle Project\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfo.cs
+F:\ThirdLevel_2nd Term\Algorithms\N-Puzzle Project\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+F:\ThirdLevel_2nd Term\Algorithms\N-Puzzle Project\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.dll
+F:\ThirdLevel_2nd Term\Algorithms\N-Puzzle Project\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\refint\ConsoleApp2.dll
+F:\ThirdLevel_2nd Term\Algorithms\N-Puzzle Project\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.pdb
+F:\ThirdLevel_2nd Term\Algorithms\N-Puzzle Project\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.genruntimeconfig.cache
+F:\ThirdLevel_2nd Term\Algorithms\N-Puzzle Project\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ref\ConsoleApp2.dll
+Q:\third year\second term\algorithm\N-Puzzle Project\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.exe
+Q:\third year\second term\algorithm\N-Puzzle Project\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.deps.json
+Q:\third year\second term\algorithm\N-Puzzle Project\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.runtimeconfig.json
+Q:\third year\second term\algorithm\N-Puzzle Project\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.dll
+Q:\third year\second term\algorithm\N-Puzzle Project\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.pdb
+Q:\third year\second term\algorithm\N-Puzzle Project\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.AssemblyReference.cache
+Q:\third year\second term\algorithm\N-Puzzle Project\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+Q:\third year\second term\algorithm\N-Puzzle Project\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfoInputs.cache
+Q:\third year\second term\algorithm\N-Puzzle Project\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfo.cs
+Q:\third year\second term\algorithm\N-Puzzle Project\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+Q:\third year\second term\algorithm\N-Puzzle Project\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.dll
+Q:\third year\second term\algorithm\N-Puzzle Project\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\refint\ConsoleApp2.dll
+Q:\third year\second term\algorithm\N-Puzzle Project\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.pdb
+Q:\third year\second term\algorithm\N-Puzzle Project\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.genruntimeconfig.cache
+Q:\third year\second term\algorithm\N-Puzzle Project\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ref\ConsoleApp2.dll
+Q:\third year\second term\algorithm\N-Puzzle Project\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.AssemblyReference.cache
+Q:\third year\second term\algorithm\N-Puzzle Project\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+Q:\third year\second term\algorithm\N-Puzzle Project\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfoInputs.cache
+Q:\third year\second term\algorithm\N-Puzzle Project\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfo.cs
+Q:\third year\second term\algorithm\N-Puzzle Project\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+Q:\third year\second term\algorithm\N-Puzzle Project\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.dll
+Q:\third year\second term\algorithm\N-Puzzle Project\ConsoleApp2\obj\Debug\net6.0\refint\ConsoleApp2.dll
+Q:\third year\second term\algorithm\N-Puzzle Project\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.pdb
+Q:\third year\second term\algorithm\N-Puzzle Project\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.exe
+Q:\third year\second term\algorithm\N-Puzzle Project\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.deps.json
+Q:\third year\second term\algorithm\N-Puzzle Project\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.runtimeconfig.json
+Q:\third year\second term\algorithm\N-Puzzle Project\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.dll
+Q:\third year\second term\algorithm\N-Puzzle Project\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.pdb
+Q:\third year\second term\algorithm\N-Puzzle Project\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.genruntimeconfig.cache
+Q:\third year\second term\algorithm\N-Puzzle Project\ConsoleApp2\obj\Debug\net6.0\ref\ConsoleApp2.dll
+E:\Collage projects\N Puzzle\solved\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.exe
+E:\Collage projects\N Puzzle\solved\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.deps.json
+E:\Collage projects\N Puzzle\solved\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.runtimeconfig.json
+E:\Collage projects\N Puzzle\solved\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.dll
+E:\Collage projects\N Puzzle\solved\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.pdb
+E:\Collage projects\N Puzzle\solved\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Collage projects\N Puzzle\solved\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfoInputs.cache
+E:\Collage projects\N Puzzle\solved\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfo.cs
+E:\Collage projects\N Puzzle\solved\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\Collage projects\N Puzzle\solved\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.dll
+E:\Collage projects\N Puzzle\solved\ConsoleApp2\obj\Debug\net6.0\refint\ConsoleApp2.dll
+E:\Collage projects\N Puzzle\solved\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.pdb
+E:\Collage projects\N Puzzle\solved\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.genruntimeconfig.cache
+E:\Collage projects\N Puzzle\solved\ConsoleApp2\obj\Debug\net6.0\ref\ConsoleApp2.dll
+E:\Collage projects\N Puzzle\program\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.exe
+E:\Collage projects\N Puzzle\program\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.deps.json
+E:\Collage projects\N Puzzle\program\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.runtimeconfig.json
+E:\Collage projects\N Puzzle\program\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.dll
+E:\Collage projects\N Puzzle\program\ConsoleApp2\bin\Debug\net6.0\ConsoleApp2.pdb
+E:\Collage projects\N Puzzle\program\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Collage projects\N Puzzle\program\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfoInputs.cache
+E:\Collage projects\N Puzzle\program\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.AssemblyInfo.cs
+E:\Collage projects\N Puzzle\program\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\Collage projects\N Puzzle\program\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.dll
+E:\Collage projects\N Puzzle\program\ConsoleApp2\obj\Debug\net6.0\refint\ConsoleApp2.dll
+E:\Collage projects\N Puzzle\program\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.pdb
+E:\Collage projects\N Puzzle\program\ConsoleApp2\obj\Debug\net6.0\ConsoleApp2.genruntimeconfig.cache
+E:\Collage projects\N Puzzle\program\ConsoleApp2\obj\Debug\net6.0\ref\ConsoleApp2.dll
